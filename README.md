@@ -15,10 +15,6 @@ The [full project report](Cinemate_SRS.pdf) provides a detailed Software Require
 - **Real-Time Seat Selection**: Offers live seat availability, allowing users to choose seats based on current occupancy.
 - **Multilingual Support**: Available in English, Spanish, and Swedish to accommodate a broader user base.
 
-## Project Structure
-- **`docs/`**: Contains the [Software Requirements Specification (SRS) document](docs/Cinemate_SRS.pdf) with project details, including requirements and design models.
-- **`src/`**: Placeholder for source code files, should implementation be added in the future.
-
 ## System Requirements
 - **Web Browser**: Supports modern browsers (Chrome, Firefox, Safari, Edge).
 - **Internet Connection**: Required for access and functionality.
